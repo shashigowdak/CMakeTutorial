@@ -1,0 +1,3 @@
+/mnt/d/Swantha/MyGitHub/CMakeTutorial/SquareRoot/CMakeFiles/SquareRoot.dir
+/mnt/d/Swantha/MyGitHub/CMakeTutorial/SquareRoot/CMakeFiles/edit_cache.dir
+/mnt/d/Swantha/MyGitHub/CMakeTutorial/SquareRoot/CMakeFiles/rebuild_cache.dir
